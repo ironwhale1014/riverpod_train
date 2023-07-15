@@ -1,6 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-class Logger extends ProviderObserver {
+class Logger1 extends ProviderObserver {
 
   // 프로바이더를 업데이트 했다.
   @override

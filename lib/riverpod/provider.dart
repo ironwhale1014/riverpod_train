@@ -15,8 +15,6 @@ final filteredShoppingListProvider = Provider<List<ShoppingItemModel>>(
             ? element.isSpicy
             : !element.isSpicy)
         .toList();
-
-    return [];
   },
 );
 
